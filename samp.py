@@ -4,4 +4,4 @@ if samosa=="yes":
     print("its you")
 else:
     print("then take this sambar")
-    print("its you")
+    
